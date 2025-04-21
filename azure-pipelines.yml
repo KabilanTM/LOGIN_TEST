@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: Regression
+pool: login
 
 steps:
 - task: Maven@4
